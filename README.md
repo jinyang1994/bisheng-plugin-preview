@@ -38,7 +38,7 @@ Add preview and highlightedCode to markdown data
 ```jsx
 import { Input } from 'co-ui';
 
-ReactDOM.render(<Input className="example overwrite" />, mountNode);
+ReactDOM.render(&lt;Input className=&quot;example overwrite&quot; /&gt;, mountNode);
 ```
 
 Add highlightedStyle to markdown data
