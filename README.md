@@ -23,7 +23,7 @@ module.exports = {
 
 In Markdown:
 
-```markdown
+<pre>
 ---
 title: ...
 ...
@@ -61,7 +61,7 @@ Add style to markdown data
     color: red;
   }
 </style>
-```
+</pre>
 
 In template:
 
