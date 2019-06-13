@@ -1,0 +1,37 @@
+{
+  "name": "bisheng-plugin-preview",
+  "version": "1.0.0",
+  "description": "Generate a preview for Markdown files in bisheng.",
+  "scripts": {
+    "lint": "eslint ./lib",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/concise-online/bisheng-plugin-preview.git"
+  },
+  "keywords": [
+    "bisheng",
+    "plugin",
+    "preview",
+    "demo"
+  ],
+  "author": "Jinyang Liu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/concise-online/bisheng-plugin-preview/issues"
+  },
+  "homepage": "https://github.com/concise-online/bisheng-plugin-preview#readme",
+  "dependencies": {
+    "bisheng-plugin-react": "^1.0.0",
+    "jsonml.js": "^0.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.3"
+  },
+  "peerDependencies": {
+    "bisheng": "^1.2.4"
+  }
+}
