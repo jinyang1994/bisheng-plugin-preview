@@ -21,7 +21,7 @@ module.exports = {
 };
 ```
 
-In Markdown:
+In Markdown of `demo` directory:
 
 <pre>
 ---
